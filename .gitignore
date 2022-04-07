@@ -8,3 +8,4 @@
 .env.production.local
 .env
 .nvmrc
+.idea
